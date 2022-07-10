@@ -4,7 +4,7 @@ export const Container = styled.div`
   height: 28.5rem;
   width: 100%;
   color: var(--base-gray);
-  box-shadow: 0px 2px 8px rgba(0, 0, 0);
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
   border-radius: 8px;
   display: grid;
   grid-template-columns: 1fr;

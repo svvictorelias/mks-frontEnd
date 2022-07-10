@@ -9,6 +9,8 @@ export const Container = styled.div`
   padding-top: 11.6rem;
   padding-bottom: 17.2rem;
   grid-template-columns: 21.76rem 21.76rem 21.76rem 21.76rem;
+  align-items: center;
+  justify-content: center;
   column-gap: 2.24rem;
   row-gap: 3.1rem;
 `;
