@@ -5,7 +5,6 @@ export const Container = styled.div`
   height: 100%;
   background-color: var(--primary-blue);
   color: var(--white);
-  height: 10.1rem;
   display: flex;
   justify-content: space-between;
   padding-left: 6.5rem;

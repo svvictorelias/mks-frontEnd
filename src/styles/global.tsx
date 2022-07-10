@@ -25,8 +25,8 @@ export const GlobalStyle = createGlobalStyle`
   `;
 
 export const AppStyle = styled.div`
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: 10.1rem auto 3.4rem;
   width: 100%;
   height: 100vh;
 `

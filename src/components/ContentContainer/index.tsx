@@ -6,6 +6,13 @@ const ContentContainer = () => {
   return (
     <Container>
       <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
+      <CardContainer/>
     </Container>
   )
 }
